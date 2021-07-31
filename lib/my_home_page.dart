@@ -36,6 +36,9 @@ class _MyHomePageState extends State<MyHomePage> {
           CustomScrollBar(
             scrollController: scrollController,
           ),
+          // ImageScrollBar(
+          //   scrollController: scrollController,
+          // ),
         ],
       ),
     );
